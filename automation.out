@@ -1,0 +1,144 @@
+2018-05-04 05:57:35 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
+2018-05-04 05:57:35 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> id: username]
+2018-05-04 05:57:37 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> name: pwd]
+2018-05-04 05:58:10 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 05:58:11 INFO  LogoutPage:27 - logout is dispalyed and object is:-[[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> id: logoutLink]
+2018-05-04 05:58:42 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 05:58:42 INFO  TestBase:32 - ========== Finshed LoginLogoutTest ===========
+2018-05-04 05:58:42 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
+2018-05-04 05:58:43 INFO  LoginPage:37 - entered item username:- manager and object is [[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> id: username]
+2018-05-04 05:58:43 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> name: pwd]
+2018-05-04 05:58:44 INFO  LoginPage:41 - click in login button and object is [[FirefoxDriver: firefox on ANY (977b35df-7cba-47a1-a16a-8e2de0c9c006)] -> id: loginButton]
+2018-05-04 05:59:36 INFO  TestBase:27 - ========== Started createUsers ===========
+2018-05-04 05:59:36 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: username]
+2018-05-04 05:59:37 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> name: pwd]
+2018-05-04 06:00:11 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:00:15 INFO  HomePage:30 - click on module Name:-Usersand object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> xpath: .//div[contains(text(),'Users')]]
+2018-05-04 06:00:15 INFO  Users:96 - click in login button and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: ext-gen7]
+2018-05-04 06:00:16 INFO  Users:98 - entered item firstName:- Venkata and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_firstNameField]
+2018-05-04 06:00:16 INFO  Users:100 - entered item midlleName:- Ramana and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_middleNameField]
+2018-05-04 06:00:16 INFO  Users:102 - entered item lastName:- Reddy and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_lastNameField]
+2018-05-04 06:00:16 INFO  Users:104 - entered item email:- Kvrr0248@gmail.com and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_emailField]
+2018-05-04 06:00:16 INFO  Users:106 - entered item username:- Ramana and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_usernameField]
+2018-05-04 06:00:16 INFO  Users:108 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_passwordField]
+2018-05-04 06:00:16 INFO  Users:110 - entered retypePassword:- manager and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_passwordCopyField]
+2018-05-04 06:00:17 INFO  Users:114 - click on modify User TimeTrack and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_submitOtherUserTimeTrackChBox]
+2018-05-04 06:00:17 INFO  Users:119 - click on generate Time Reports and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_generateTimeReportsLabel]
+2018-05-04 06:00:17 INFO  Users:121 - click on generate Money Reports and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_generateMoneyReportsLabel]
+2018-05-04 06:00:18 INFO  Users:126 - click on generate Time Reports and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> xpath: .//label[contains(text(),'Manage Customers & Projects')]]
+2018-05-04 06:00:18 INFO  Users:128 - click on manageTasks and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> xpath: .//label[contains(text(),'Manage Tasks')]]
+2018-05-04 06:00:19 INFO  Users:133 - click on manage Accounts and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_manageAccountsLabel]
+2018-05-04 06:00:19 INFO  Users:135 - click on umanage General Settings and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> id: userDataLightBox_manageGeneralSettingsChBox]
+2018-05-04 06:00:20 INFO  Users:138 - click on create User button and object is [[FirefoxDriver: firefox on ANY (ffc5913d-9496-4924-bdc9-720b10c49231)] -> xpath: .//div[contains(text(),'Create User')]]
+2018-05-04 06:00:51 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:00:51 INFO  TestBase:36 - ========== Finshed createUsers ===========
+2018-05-04 06:01:11 INFO  TestBase:13 - ========== Started Delete Users ===========
+2018-05-04 06:01:11 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (91149390-b670-44c6-83cc-92a62bbeeda2)] -> id: username]
+2018-05-04 06:01:12 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (91149390-b670-44c6-83cc-92a62bbeeda2)] -> name: pwd]
+2018-05-04 06:01:46 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:01:50 INFO  HomePage:30 - click on module Name:-Usersand object is [[FirefoxDriver: firefox on ANY (91149390-b670-44c6-83cc-92a62bbeeda2)] -> xpath: .//div[contains(text(),'Users')]]
+2018-05-04 06:01:50 INFO  Users:144 - select User:-Venkata and object is [[FirefoxDriver: firefox on ANY (91149390-b670-44c6-83cc-92a62bbeeda2)] -> xpath: .//div[contains(text(),'Venkata')]/../../td[5]]
+2018-05-04 06:01:51 INFO  Users:148 - get message:- Are you sure you want to delete this user account?
+2018-05-04 06:01:51 INFO  Users:150 - click on ok
+2018-05-04 06:01:51 INFO  LogoutPage:37 - click in logout and object is [[FirefoxDriver: firefox on ANY (91149390-b670-44c6-83cc-92a62bbeeda2)] -> id: logoutLink]
+2018-05-04 06:01:51 INFO  TestBase:23 - ========== Finshed Delete Users ===========
+2018-05-04 06:02:10 INFO  TestBase:13 - ========== Started createBillingType  ===========
+2018-05-04 06:02:10 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> id: username]
+2018-05-04 06:02:11 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> name: pwd]
+2018-05-04 06:02:46 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:02:46 INFO  Users:44 - click on Settings Icon button and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> xpath: //div[@class='popup_menu_icon settings_icon']]
+2018-05-04 06:02:48 INFO  Users:46 - click on Billing Types Link and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> link text: Billing Types]
+2018-05-04 06:03:19 INFO  Users:53 - click on Create Billing Type Button and object is Proxy element for: DefaultElementLocator 'By.id: ext-comp-1002'
+2018-05-04 06:03:19 INFO  Users:55 - entered item firstName:- State GST and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> id: name]
+2018-05-04 06:03:51 INFO  Users:57 - click on Create Billing Type Submite Button and object is Proxy element for: DefaultElementLocator 'By.cssSelector: input[type='submit']'
+2018-05-04 06:03:51 INFO  Users:62 - get Message:- Billing type has been successfully created. and object is [[FirefoxDriver: firefox on ANY (6c830fb1-4039-4f93-a4bc-fce8fb5a6a52)] -> class name: successmsg]
+2018-05-04 06:04:22 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:04:22 INFO  TestBase:23 - ========== Finshed createBillingType  ===========
+2018-05-04 06:04:41 INFO  TestBase:12 - ========== Started DeleteBillingType  ===========
+2018-05-04 06:04:42 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (bbd7b5fc-e5d3-4c95-b7d5-a0dd5541e9bd)] -> id: username]
+2018-05-04 06:04:43 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (bbd7b5fc-e5d3-4c95-b7d5-a0dd5541e9bd)] -> name: pwd]
+2018-05-04 06:05:17 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:05:17 INFO  Users:44 - click on Settings Icon button and object is [[FirefoxDriver: firefox on ANY (bbd7b5fc-e5d3-4c95-b7d5-a0dd5541e9bd)] -> xpath: //div[@class='popup_menu_icon settings_icon']]
+2018-05-04 06:05:19 INFO  Users:46 - click on Billing Types Link and object is [[FirefoxDriver: firefox on ANY (bbd7b5fc-e5d3-4c95-b7d5-a0dd5541e9bd)] -> link text: Billing Types]
+2018-05-04 06:05:19 INFO  Users:69 - click on delete Billing type State GST and object is [[FirefoxDriver: firefox on ANY (bbd7b5fc-e5d3-4c95-b7d5-a0dd5541e9bd)] -> xpath: .//a[text()='State GST']/../../td[7]/a]
+2018-05-04 06:05:19 INFO  Users:72 - alert Message Are you sure you want to delete this billing type?
+2018-05-04 06:05:19 INFO  Users:74 - click on ok Button 
+2018-05-04 06:05:50 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:05:50 INFO  TestBase:21 - ========== Finshed DeleteBillingType  ===========
+2018-05-04 06:06:10 INFO  TestBase:25 - ========== Started create Customers ===========
+2018-05-04 06:06:10 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> id: username]
+2018-05-04 06:06:11 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> name: pwd]
+2018-05-04 06:06:46 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:06:48 INFO  HomePage:30 - click on module Name:-Tasksand object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> xpath: .//div[contains(text(),'Tasks')]]
+2018-05-04 06:06:50 INFO  SelectTaskSubMenu:28 - click on sub menu:- Projects & Customers and object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> xpath: .//a[contains(text(),'Projects & Customers')]]
+2018-05-04 06:07:21 INFO  ProjectsCustomers:61 - click on create customer button and object is Proxy element for: DefaultElementLocator 'By.id: ext-gen7'
+2018-05-04 06:07:22 INFO  ProjectsCustomers:63 - entered customername:- Ravi Kumar and object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> name: name]
+2018-05-04 06:07:22 INFO  ProjectsCustomers:65 - entered customer description:- Ravi Kumar and object is [[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> name: description]
+2018-05-04 06:07:54 INFO  ProjectsCustomers:67 - click on customer submite button and object is Proxy element for: DefaultElementLocator 'By.name: createCustomerSubmit'
+2018-05-04 06:08:25 INFO  ProjectsCustomers:69 - success Message1Customer "Ravi Kumar" has been successfully created. and object is Proxy element for: DefaultElementLocator 'By.name: createCustomerSubmit'
+2018-05-04 06:08:25 INFO  ProjectsCustomers:76 - create customer success Messages page dispalyed and object is:-[[FirefoxDriver: firefox on ANY (85cc4335-9920-43e2-9857-1e01b34adc95)] -> id: SuccessMessages]
+2018-05-04 06:08:56 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:08:56 INFO  TestBase:38 - ========== Finshed create Customers  ===========
+2018-05-04 06:09:16 INFO  TestBase:22 - ========== Started createProject ===========
+2018-05-04 06:09:17 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> id: username]
+2018-05-04 06:09:18 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> name: pwd]
+2018-05-04 06:09:52 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:09:54 INFO  HomePage:30 - click on module Name:-Tasksand object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> xpath: .//div[contains(text(),'Tasks')]]
+2018-05-04 06:09:55 INFO  SelectTaskSubMenu:28 - click on sub menu:- Projects & Customers and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> xpath: .//a[contains(text(),'Projects & Customers')]]
+2018-05-04 06:10:27 INFO  ProjectsCustomers:85 - click on create project button and object is Proxy element for: DefaultElementLocator 'By.id: ext-gen14'
+2018-05-04 06:10:27 INFO  ProjectsCustomers:87 - click select class object to perforam action drop down element
+2018-05-04 06:10:28 INFO  ProjectsCustomers:89 -  select customer:- Ravi Kumar and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> name: name]
+2018-05-04 06:10:28 INFO  ProjectsCustomers:91 - entered project name:- Ksr import & Exports Business and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> name: name]
+2018-05-04 06:10:29 INFO  ProjectsCustomers:93 - entered project description:- Tansportation and object is [[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> name: description]
+2018-05-04 06:11:01 INFO  ProjectsCustomers:95 - click on project submite button and object is Proxy element for: DefaultElementLocator 'By.name: createProjectSubmit'
+2018-05-04 06:11:31 INFO  ProjectsCustomers:97 - success Message1Project "Ksr import & Exports Business" has been successfully created. and object is Proxy element for: DefaultElementLocator 'By.name: createCustomerSubmit'
+2018-05-04 06:11:31 INFO  ProjectsCustomers:76 - create customer success Messages page dispalyed and object is:-[[FirefoxDriver: firefox on ANY (ae0e025b-f69c-4347-856d-afdacd921877)] -> id: SuccessMessages]
+2018-05-04 06:12:02 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:12:02 INFO  TestBase:35 - ========== Finshed createProject  ===========
+2018-05-04 06:12:23 INFO  TestBase:30 - ========== Started createCustomersAndProjects ===========
+2018-05-04 06:12:23 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> id: username]
+2018-05-04 06:12:24 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> name: pwd]
+2018-05-04 06:12:25 INFO  LoginPage:41 - click in login button and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> id: loginButton]
+2018-05-04 06:12:30 INFO  HomePage:30 - click on module Name:-Tasksand object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> xpath: .//div[contains(text(),'Tasks')]]
+2018-05-04 06:12:31 INFO  SelectTaskSubMenu:28 - click on sub menu:- Projects & Customers and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> xpath: .//a[contains(text(),'Projects & Customers')]]
+2018-05-04 06:13:02 INFO  ProjectsCustomers:104 - click on create customer button and object is Proxy element for: DefaultElementLocator 'By.id: ext-gen7'
+2018-05-04 06:13:02 INFO  ProjectsCustomers:106 - entered customername:- Ramana Reddy and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> name: name]
+2018-05-04 06:13:03 INFO  ProjectsCustomers:108 - entered customer description:- Ramana Reddy and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> name: description]
+2018-05-04 06:13:03 INFO  ProjectsCustomers:110 - click on create NewProject For This Customer radio button and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> xpath: .//label[contains(text(),'Create a new project for this customer')]]
+2018-05-04 06:13:35 INFO  ProjectsCustomers:112 - click on customer submite button and object is Proxy element for: DefaultElementLocator 'By.name: createCustomerSubmit'
+2018-05-04 06:13:35 INFO  ProjectsCustomers:114 - success Message1Customer "Ramana Reddy" has been successfully created. and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> id: SuccessMessages]
+2018-05-04 06:13:36 INFO  ProjectsCustomers:116 - entered project name:- Kvr import & Exports Business and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> name: name]
+2018-05-04 06:13:36 INFO  ProjectsCustomers:118 - entered project description:- Imports & Exports and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> name: description]
+2018-05-04 06:14:08 INFO  ProjectsCustomers:120 - click on project submite button and object is Proxy element for: DefaultElementLocator 'By.name: createProjectSubmit'
+2018-05-04 06:14:08 INFO  ProjectsCustomers:122 - success Message1Project "Kvr import & Exports Business" has been successfully created. and object is [[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> id: SuccessMessages]
+2018-05-04 06:14:08 INFO  ProjectsCustomers:76 - create customer success Messages page dispalyed and object is:-[[FirefoxDriver: firefox on ANY (dca9cb29-9c97-4539-b54d-8094c798c19b)] -> id: SuccessMessages]
+2018-05-04 06:14:40 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:14:40 INFO  TestBase:43 - ========== Finshed createCustomersAndProjects ===========
+2018-05-04 06:15:00 INFO  TestBase:17 - ========== Started deleteProject ===========
+2018-05-04 06:15:00 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> id: username]
+2018-05-04 06:15:04 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> name: pwd]
+2018-05-04 06:15:38 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:15:40 INFO  HomePage:30 - click on module Name:-Tasksand object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> xpath: .//div[contains(text(),'Tasks')]]
+2018-05-04 06:15:42 INFO  SelectTaskSubMenu:28 - click on sub menu:- Projects & Customers and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> xpath: .//a[contains(text(),'Projects & Customers')]]
+2018-05-04 06:15:42 INFO  DeleteProjectsCustomers:46 - select custome to delete:-Ksr import & Exports Businessand object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> xpath: .//a[contains(text(),'Ksr import & Exports Business')]/../../../../../../td/input[@type='checkbox']]
+2018-05-04 06:15:43 INFO  DeleteProjectsCustomers:48 - click on delete select button and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> xpath: .//*[@value='Delete Selected']]
+2018-05-04 06:15:45 INFO  DeleteProjectsCustomers:50 - click on delete  button and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> id: deleteButton]
+2018-05-04 06:15:45 INFO  DeleteProjectsCustomers:52 - success Message1Selected projects have been successfully deleted. and object is [[FirefoxDriver: firefox on ANY (02aa731d-6139-4d6d-a8d5-9411c3340ff8)] -> id: SuccessMessages]
+2018-05-04 06:16:16 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:16:16 INFO  TestBase:28 - ========== Finshed deleteProject  ===========
+2018-05-04 06:16:36 INFO  TestBase:18 - ========== Started delete CustomerAndProject ===========
+2018-05-04 06:16:37 INFO  LoginPage:37 - entered item username:- admin and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> id: username]
+2018-05-04 06:16:38 INFO  LoginPage:39 - entered password:- manager and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> name: pwd]
+2018-05-04 06:17:12 INFO  LoginPage:41 - click in login button and object is Proxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-05-04 06:17:14 INFO  HomePage:30 - click on module Name:-Tasksand object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> xpath: .//div[contains(text(),'Tasks')]]
+2018-05-04 06:17:15 INFO  SelectTaskSubMenu:28 - click on sub menu:- Projects & Customers and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> xpath: .//a[contains(text(),'Projects & Customers')]]
+2018-05-04 06:17:15 INFO  DeleteProjectsCustomers:33 - select custome to delete:-Ravi Kumarand object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> xpath: .//a[contains(text(),'Ravi Kumar')]/../../../../../../td/input[@type='checkbox']]
+2018-05-04 06:17:16 INFO  DeleteProjectsCustomers:35 - click on delete select button and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> xpath: .//*[@value='Delete Selected']]
+2018-05-04 06:17:18 INFO  DeleteProjectsCustomers:37 - click on delete  button and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> id: deleteButton]
+2018-05-04 06:17:18 INFO  DeleteProjectsCustomers:39 - success Message1Selected customers have been successfully deleted. and object is [[FirefoxDriver: firefox on ANY (432d7f7c-e8d7-46c1-addb-e715f167681d)] -> id: SuccessMessages]
+2018-05-04 06:17:49 INFO  LogoutPage:37 - click in logout and object is Proxy element for: DefaultElementLocator 'By.id: logoutLink'
+2018-05-04 06:17:49 INFO  TestBase:29 - ========== Finshed delete CustomerAndProject  ===========
+2018-10-16 12:19:07 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
+2018-10-24 18:12:14 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
+2019-04-15 16:48:10 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
+2019-04-15 16:48:41 INFO  TestBase:25 - ========== Started LoginLogoutTest ===========
