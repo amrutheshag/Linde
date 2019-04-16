@@ -31,6 +31,6 @@ public class LogingToApplication extends TestBase {
 	//driver.get("https://ecd3w01a.edc.linde.grp/shop/en/uk/home");
 	SoftAssert s = new SoftAssert();
 	driver.findElement(By.xpath("//a[@id='departmentLink_3074457345616693268']")).click();
-	
+	//end
 }
 }
